@@ -6,7 +6,7 @@ The bot is simple, but I decided that it is also worthy of attention.<br>
 The functionality of the bot is a team!help, !dice - roll the D12 die and !do - check the ability to do an action.<br>
 Maybe someday I'll go back to text-based role-playing.<br>
 
-//----------------------------------------------------------------------------------------------------------------
+//--------------------------------------------------------------------------------------------------------------------
 
 Это Discord bot для текстовых ролёвок или D&D. <br>
 Бот простой, но я решил, что он тоже достоин внимания. <br>
